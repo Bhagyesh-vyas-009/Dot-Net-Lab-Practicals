@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LAB_2
+{
+    internal interface ICalculate
+    {
+        public void Addition(double a,double b);
+        public void Subtraction(double a, double b);
+    }
+}

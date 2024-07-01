@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DOT NET PROJECTS\\LAB-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78F0289E-FA9D-4B0E-844B-3D800F179FF5}|LAB-1\\LAB-1.csproj|e:\\dot net projects\\lab-1\\lab-1\\prog_10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F0289E-FA9D-4B0E-844B-3D800F179FF5}|LAB-1\\LAB-1.csproj|solutionrelative:lab-1\\prog_10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F0289E-FA9D-4B0E-844B-3D800F179FF5}|LAB-1\\LAB-1.csproj|e:\\dot net projects\\lab-1\\lab-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F0289E-FA9D-4B0E-844B-3D800F179FF5}|LAB-1\\LAB-1.csproj|solutionrelative:lab-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F0289E-FA9D-4B0E-844B-3D800F179FF5}|LAB-1\\LAB-1.csproj|e:\\dot net projects\\lab-1\\lab-1\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F0289E-FA9D-4B0E-844B-3D800F179FF5}|LAB-1\\LAB-1.csproj|solutionrelative:lab-1\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F0289E-FA9D-4B0E-844B-3D800F179FF5}|LAB-1\\LAB-1.csproj|e:\\dot net projects\\lab-1\\lab-1\\accountdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F0289E-FA9D-4B0E-844B-3D800F179FF5}|LAB-1\\LAB-1.csproj|solutionrelative:lab-1\\accountdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prog_10.cs",
+              "DocumentMoniker": "E:\\DOT NET PROJECTS\\LAB-1\\LAB-1\\prog_10.cs",
+              "RelativeDocumentMoniker": "LAB-1\\prog_10.cs",
+              "ToolTip": "E:\\DOT NET PROJECTS\\LAB-1\\LAB-1\\prog_10.cs*",
+              "RelativeToolTip": "LAB-1\\prog_10.cs*",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwCkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:20:40.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "E:\\DOT NET PROJECTS\\LAB-1\\LAB-1\\Salary.cs",
+              "RelativeDocumentMoniker": "LAB-1\\Salary.cs",
+              "ToolTip": "E:\\DOT NET PROJECTS\\LAB-1\\LAB-1\\Salary.cs",
+              "RelativeToolTip": "LAB-1\\Salary.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:13:38.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountDetails.cs",
+              "DocumentMoniker": "E:\\DOT NET PROJECTS\\LAB-1\\LAB-1\\AccountDetails.cs",
+              "RelativeDocumentMoniker": "LAB-1\\AccountDetails.cs",
+              "ToolTip": "E:\\DOT NET PROJECTS\\LAB-1\\LAB-1\\AccountDetails.cs",
+              "RelativeToolTip": "LAB-1\\AccountDetails.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:08:08.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DOT NET PROJECTS\\LAB-1\\LAB-1\\Program.cs",
+              "RelativeDocumentMoniker": "LAB-1\\Program.cs",
+              "ToolTip": "E:\\DOT NET PROJECTS\\LAB-1\\LAB-1\\Program.cs*",
+              "RelativeToolTip": "LAB-1\\Program.cs*",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAwGAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:03:04.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

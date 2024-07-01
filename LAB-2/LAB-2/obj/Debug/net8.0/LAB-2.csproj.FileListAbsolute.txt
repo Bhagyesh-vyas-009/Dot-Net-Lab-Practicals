@@ -1,0 +1,14 @@
+E:\DOT NET PROJECTS\LAB-2\LAB-2\bin\Debug\net8.0\LAB-2.exe
+E:\DOT NET PROJECTS\LAB-2\LAB-2\bin\Debug\net8.0\LAB-2.deps.json
+E:\DOT NET PROJECTS\LAB-2\LAB-2\bin\Debug\net8.0\LAB-2.runtimeconfig.json
+E:\DOT NET PROJECTS\LAB-2\LAB-2\bin\Debug\net8.0\LAB-2.dll
+E:\DOT NET PROJECTS\LAB-2\LAB-2\bin\Debug\net8.0\LAB-2.pdb
+E:\DOT NET PROJECTS\LAB-2\LAB-2\obj\Debug\net8.0\LAB-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOT NET PROJECTS\LAB-2\LAB-2\obj\Debug\net8.0\LAB-2.AssemblyInfoInputs.cache
+E:\DOT NET PROJECTS\LAB-2\LAB-2\obj\Debug\net8.0\LAB-2.AssemblyInfo.cs
+E:\DOT NET PROJECTS\LAB-2\LAB-2\obj\Debug\net8.0\LAB-2.csproj.CoreCompileInputs.cache
+E:\DOT NET PROJECTS\LAB-2\LAB-2\obj\Debug\net8.0\LAB-2.dll
+E:\DOT NET PROJECTS\LAB-2\LAB-2\obj\Debug\net8.0\refint\LAB-2.dll
+E:\DOT NET PROJECTS\LAB-2\LAB-2\obj\Debug\net8.0\LAB-2.pdb
+E:\DOT NET PROJECTS\LAB-2\LAB-2\obj\Debug\net8.0\LAB-2.genruntimeconfig.cache
+E:\DOT NET PROJECTS\LAB-2\LAB-2\obj\Debug\net8.0\ref\LAB-2.dll
